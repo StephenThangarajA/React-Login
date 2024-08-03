@@ -17,7 +17,7 @@ Check out the live demo [here](#).
 1. **Clone the repository:**
 
      ```bash
-   git clone https://github.com/stephenthangaraja/yerso-ecommerce.git
+   git clone https://github.com/stephenthangaraja/react-login.git
 
    cd react-login-page-vite
    
