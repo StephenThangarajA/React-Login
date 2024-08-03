@@ -16,17 +16,20 @@ Check out the live demo [here](#).
 
 1. **Clone the repository:**
 
-   git clone https://github.com/StephenThangarajA/react-login-page-vite.git
+   git clone https://github.com/stephenthangaraja/react-login-page-vite.git
    cd react-login-page-vite
    
-Install dependencies:
-npm install
+2. **Install dependencies:**
 
-Start the development server:
-npm run dev
+   npm install
 
-Usage
-Open your browser and go to http://localhost:5173 to see the login page.
+3. **Start the development server:**
+   
+   npm run dev
+
+4. **Usage:**
+
+   Open your browser and go to http://localhost:5173 to see the login page.
 
 ## Technologies Used
 React
