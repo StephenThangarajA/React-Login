@@ -16,18 +16,20 @@ Check out the live demo [here](#).
 
 1. **Clone the repository:**
 
-   git clone https://github.com/stephenthangaraja/react-login-page-vite.git
+     ```bash
+   git clone https://github.com/stephenthangaraja/yerso-ecommerce.git
+
    cd react-login-page-vite
    
-2. **Install dependencies:**
+3. **Install dependencies:**
 
    npm install
 
-3. **Start the development server:**
+4. **Start the development server:**
    
    npm run dev
 
-4. **Usage:**
+5. **Usage:**
 
    Open your browser and go to http://localhost:5173 to see the login page.
 
