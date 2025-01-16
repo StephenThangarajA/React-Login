@@ -43,3 +43,7 @@ Contributions are welcome! Feel free to create an issue or submit a pull request
 
 ## License
 This project is licensed under the MIT License.
+
+## 📧 Contact
+
+For any queries or support, feel free to reach out to the project maintainer, **Stephen Thangaraj**.
